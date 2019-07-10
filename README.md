@@ -1,6 +1,6 @@
-# i_am_rich
+# I Am Rich
 
-A new Flutter project.
+This is a Flutter Basics app. This app is created to teach some basic functionality of a Flutter App.
 
 ## Getting Started
 
